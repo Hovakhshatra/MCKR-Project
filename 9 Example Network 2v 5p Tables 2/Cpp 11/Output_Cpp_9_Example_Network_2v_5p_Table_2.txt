@@ -1,0 +1,85 @@
+
+N=10.
+With simple Monte Carlo:
+ 2.2462 = Ians,
+ 1.28301 = Standard Error,
+ 0 seconds = Time of the computation.
+With antithetic Monte Carlo:
+ 0.0177129 = Ians,
+ 0.0177129 = Standard Error,
+ 0 seconds = Time of the computation.
+
+N=100.
+With simple Monte Carlo:
+ 1.09489 = Ians,
+ 0.491639 = Standard Error,
+ 0.009686 seconds = Time of the computation.
+With antithetic Monte Carlo:
+ 0.911072 = Ians,
+ 0.299105 = Standard Error,
+ 0 seconds = Time of the computation.
+
+N=1000.
+With simple Monte Carlo:
+ 1.05275 = Ians,
+ 0.166533 = Standard Error,
+ 0 seconds = Time of the computation.
+With antithetic Monte Carlo:
+ 1.65483 = Ians,
+ 0.360032 = Standard Error,
+ 0 seconds = Time of the computation.
+
+N=10000.
+With simple Monte Carlo:
+ 1.46859 = Ians,
+ 0.197327 = Standard Error,
+ 0.020152 seconds = Time of the computation.
+With antithetic Monte Carlo:
+ 1.27842 = Ians,
+ 0.0862037 = Standard Error,
+ 0.010039 seconds = Time of the computation.
+The efficiency of the antithetic to the simple method= 4.59502.
+
+N=100000.
+With simple Monte Carlo:
+ 1.38393 = Ians,
+ 0.0630785 = Standard Error,
+ 0.139843 seconds = Time of the computation.
+With antithetic Monte Carlo:
+ 1.52913 = Ians,
+ 0.0662888 = Standard Error,
+ 0.100076 seconds = Time of the computation.
+The efficiency of the antithetic to the simple method= 1.3297.
+
+N=1e+006.
+With simple Monte Carlo:
+ 1.42114 = Ians,
+ 0.0184348 = Standard Error,
+ 1.45457 seconds = Time of the computation.
+With antithetic Monte Carlo:
+ 1.38712 = Ians,
+ 0.0156609 = Standard Error,
+ 0.95103 seconds = Time of the computation.
+The efficiency of the antithetic to the simple method= 1.80038.
+
+N=1e+007.
+With simple Monte Carlo:
+ 1.41867 = Ians,
+ 0.00690641 = Standard Error,
+ 14.1016 seconds = Time of the computation.
+With antithetic Monte Carlo:
+ 1.40311 = Ians,
+ 0.00564846 = Standard Error,
+ 9.45752 seconds = Time of the computation.
+The efficiency of the antithetic to the simple method= 1.82311.
+
+N=1e+008.
+With simple Monte Carlo:
+ 1.41732 = Ians,
+ 0.00263014 = Standard Error,
+ 142.395 seconds = Time of the computation.
+With antithetic Monte Carlo:
+ 1.42293 = Ians,
+ 0.00624803 = Standard Error,
+ 94.6376 seconds = Time of the computation.
+The efficiency of the antithetic to the simple method= 0.633384.

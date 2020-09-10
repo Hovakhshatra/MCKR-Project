@@ -1,0 +1,92 @@
+# Taken from the Julia file: Julia_7_Example_Network_2v_5p_Table_1.jl
+
+N=10
+With simple Monte Carlo:
+0.527070881255435 = Ians
+0.5826987836820811 = StandardError
+2.2899e-5 = Time of computation
+With antithetic Monte Carlo:
+0.1994769270422469 = Ians
+0.1716493769623022 =Standard Error
+8.001e-6 = Time of computation
+The efficiency of the antithetic to the simple method=9.715700684204101
+N=100
+With simple Monte Carlo:
+2.542496024686625 = Ians
+1.8836177917318668 = StandardError
+2.0801e-5 = Time of computation
+With antithetic Monte Carlo:
+1.099524942885649 = Ians
+0.41486771322711696 =Standard Error
+1.48e-5 = Time of computation
+The efficiency of the antithetic to the simple method=6.381248319125964
+N=1000
+With simple Monte Carlo:
+2.470114858573769 = Ians
+0.744916211380292 = StandardError
+0.000165101 = Time of computation
+With antithetic Monte Carlo:
+0.9423223445789625 = Ians
+0.14734894066697932 =Standard Error
+9.4999e-5 = Time of computation
+The efficiency of the antithetic to the simple method=8.785997550820658
+N=10000
+With simple Monte Carlo:
+1.4678351234404488 = Ians
+0.17541589805824356 = StandardError
+0.001570899 = Time of computation
+With antithetic Monte Carlo:
+1.662102537905749 = Ians
+0.3327997097674981 =Standard Error
+0.0009501 = Time of computation
+The efficiency of the antithetic to the simple method=0.871495115767444
+N=100000
+With simple Monte Carlo:
+1.9898912973529528 = Ians
+0.5953702420779486 = StandardError
+0.015469 = Time of computation
+With antithetic Monte Carlo:
+1.392013810905736 = Ians
+0.05525623997994873 =Standard Error
+0.008919999 = Time of computation
+The efficiency of the antithetic to the simple method=18.685435676064067
+N=1000000
+With simple Monte Carlo:
+1.4321610174913961 = Ians
+0.030766932466041595 = StandardError
+0.1506252 = Time of computation
+With antithetic Monte Carlo:
+1.4490360503534478 = Ians
+0.03357545713593764 =Standard Error
+0.090292401 = Time of computation
+The efficiency of the antithetic to the simple method=1.5286522461172367
+N=10000000
+With simple Monte Carlo:
+1.4216616899614227 = Ians
+0.007325828328597585 = StandardError
+1.5362033 = Time of computation
+With antithetic Monte Carlo:
+1.419472226036245 = Ians
+0.008804104156489781 =Standard Error
+0.939077999 = Time of computation
+The efficiency of the antithetic to the simple method=1.3611895092993156
+N=100000000
+With simple Monte Carlo:
+1.413392972223649 = Ians
+0.0029837457963567556 = StandardError
+15.494148199 = Time of computation
+With antithetic Monte Carlo:
+1.4151109371603663 = Ians
+0.0027409518159804093 =Standard Error
+10.040993001 = Time of computation
+The efficiency of the antithetic to the simple method=1.6797763421641456
+N=1000000000
+With simple Monte Carlo:
+1.418665401538655 = Ians
+0.0014011376894688375 = StandardError
+155.544266099 = Time of computation
+With antithetic Monte Carlo:
+1.4182581455624133 = Ians
+0.0012250901172471875 =Standard Error
+92.3336835 = Time of computation
+The efficiency of the antithetic to the simple method=1.926666844237346
