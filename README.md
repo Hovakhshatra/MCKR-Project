@@ -1,5 +1,4 @@
 # MCKR-Project
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4026954.svg)](https://doi.org/10.5281/zenodo.4026954)
 
 This is the repository for the computation files of the examples of the paper "Kac-Rice formulas and the number of solutions of parametrized systems of polynomial equations" [1]. By using the code of this repository the paper [1] should be cited.
 
